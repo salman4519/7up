@@ -1,0 +1,498 @@
+.main-head{
+    
+    width:100%;
+    height:54px;
+    position: fixed;
+    z-index: 1000;
+}
+body{
+    margin:0;
+}
+.logo-header{
+    width:73%;
+    background-color:#009e5f;
+    height:54px;
+    float:left;
+}
+.header-text{
+    width:27%;
+    background-color:#009e5f;
+    height:54px;
+    float:left;
+    
+    vertical-align: middle;
+    
+}
+.logo{
+    width:121px;
+    padding-left:17px;
+    padding-top:3px;
+    position:absolute;
+}
+.htext{
+    color:#fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-top:3px;
+    float:left;
+    margin-left:20px;
+    cursor:pointer;
+
+    
+}
+.htext:hover{
+    color: rgb(70, 70, 85);
+}
+.floor1{
+    width:100%;
+    height:855px;
+
+
+}
+.floor1-left{
+    background-color:#fff;
+    width:30%;
+    height:100%;
+    float:left;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    
+    
+    
+
+}
+.floor1-right{
+    background-color: rgb(209, 126, 18);
+    width:70%;
+    height:100%;
+    float:left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    
+
+}
+.ice-pic{
+    width: 100%;
+    height:426px;
+    vertical-align: middle;
+    position:relative;
+    float:left;
+    
+    position:relative;
+
+    
+    
+}
+.text-refresh{
+    font-size: 35px;
+    font-family:system-ui;
+    font-weight: bold;
+    float:left;
+    text-transform:uppercase;
+    text-align: center;
+    padding-left:90px;
+    color: rgb(0,158,95);
+    
+    position:absolute;
+    
+}
+.inner1-left{
+    width: 100%;
+    height:528.8px;
+    background-color:#fff;
+    padding-top: -20px;
+    vertical-align: middle;
+   
+}
+.explore-button{
+    background-color:#fff;
+    color:rgb(0,158,95);
+    border-color:rgb(0,158,95);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:135px;
+    margin-top:110px;
+    font-weight:bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width:3px;
+    border-bottom-color: #009e5f;
+    border-right-color: #009e5f;
+
+}
+.explore-button:hover{
+    color:#fff;
+    background-color: #009e5f;
+    cursor: pointer;
+}
+.second-floor{
+    width:100%;
+    height: 855px;
+}
+.img-floor2{
+    width:100%;
+    height:100%;
+}
+.animated-section{
+    width:100% ;
+    height:630px;
+    padding-top:1px;
+    
+    
+    
+}
+.animated-image{
+    width:100%;
+    height:630px;
+    position:absolute;
+    margin-top: -2px;
+    
+}
+.animated-img{
+    margin-top: -2px;
+}
+
+.animated-btn{
+    font-size:39px;
+    color:#fff;
+    background-color: #fe5887;
+    position:relative;
+    z-index: 1;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: system-ui;
+    width:400px;
+    height:95px;
+    left: 35%;
+    top:-100%;
+    padding-top: 30px;
+    cursor: pointer;
+    
+    
+}
+.main-page{
+    width:1519.2px;
+    height:5240.54px;
+}
+#parent{
+    position:relative;
+    width:100%;
+    height:630px;
+}
+.video-floor1{
+    width:100%;
+    height:100%
+}
+.animated-btn2{
+    font-size:39px;
+    color:#fff;
+    background-color:rgb(107, 161, 63);
+    position:relative;
+    z-index: 1;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: system-ui;
+    width:400px;
+    height:95px;
+    left: 35%;
+    top:37%;
+    padding-top: 30px;
+    cursor: pointer;
+    
+    
+}
+.animated-btn3{
+    font-size:39px;
+    color:#fff;
+    background-color:#c064ac;
+    position:relative;
+    z-index: 1;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: system-ui;
+    width:400px;
+    height:95px;
+    left: 35%;
+    top:37%;
+    padding-top: 30px;
+    cursor: pointer;
+    
+    
+}
+.page3{
+    width:100%;
+    height: 828px;
+}
+.page4{
+    width:100%;
+    height:812px;
+    display: flex;
+    align-items: center;
+}
+.page3-left{
+    float:left;
+    width:55%;
+    height:100%;
+    background-color: #fff;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:-3%;
+
+
+
+}
+.page3-right{
+    float:left;
+    width:45%;
+    height:100%;
+    background-color: rgb(222 222 222);
+    margin-top: -2px;
+
+
+}
+.img1{
+    width:186px;
+    height:372px;
+   
+}
+.img2{
+    width:148px;
+    height:297px;
+}
+.img3{
+    width:148px;
+    height: 297px;
+}
+.img3-sec{
+    width: 148px;
+    height: 472px;
+    float: left;
+    margin-top: 55px;
+
+}
+.img3{
+    cursor: pointer;
+}
+.img1-sec{
+    width: 186px;
+    height: 372px;
+    float: left;
+    margin-left:50px;
+    margin-right: 100px;
+
+}
+
+.img1-sec:hover{
+    cursor: pointer;
+}
+.img2-sec{
+    width: 148px;
+    height: 472px;
+    margin-top: 110px;
+}
+.img2-sec:hover{
+    cursor: pointer;
+}
+.shadow1{
+    float: left;
+    width: 100%;
+    height:15%;
+}
+.arrow-sec{
+    width: 55%;
+    height: 92px;
+    float: left;
+    position: absolute;
+    margin-top: 40%;
+    display: flex;
+    justify-content: center;
+
+
+}
+.arrow{
+    padding-right: 50px;
+    width:260px;
+    height: 115px;
+}
+.arrow:hover{
+    cursor: pointer;
+}
+.text-sec{
+    width: 461px;
+    height: 275px;
+    background-color:transparent;
+    position: relative;
+    margin-top: -660px;
+    margin-left: 120px;
+}
+.text1{
+    color:#fff;
+    font-size:61px;
+    float: left;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.text2{
+    float: left;
+    color: #fff;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    margin-top: -25px;
+
+}
+.btn2{
+    background-color:#fff;
+    color:rgb(0,158,95);
+    border:none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    
+}
+.btn2:hover{
+    cursor: pointer;
+    color: #fff;
+    background-color: #009e5f;
+}
+.playbtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+}
+.left-arrow{
+    position: absolute;
+    margin-right: 66%;
+}
+.right-arrow{
+    position: absolute;
+    margin-left: 66%;
+}
+.inner-3{
+    background-color:transparent;
+    width: 100%;
+    height: 828px;
+    margin-left: 82px;
+    margin-top: 84px;
+    width:88%;
+}
+.inner-text1{
+    color: #009e5f;
+    font-weight: bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 70px;
+}
+.dot-text{
+    color: #d71e05;
+    font-size: 90px;
+    margin-top: -145px;
+    margin-left: 90px;
+}
+.para1{
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #706a6a;
+    margin-top:-70px;
+    
+}
+.glass-img{
+    width: 395px;
+    height: 400px;
+    margin-top: 65px;
+}
+.right-page4{
+    width: 31%;
+    height: 328px;
+    background-color:transparent;
+    position: absolute;
+    right: 200px;
+    margin-top: -120px;
+}
+.dtext{
+    width: 100%;
+    margin-top: -35px;
+}
+.footer{
+    height: 122px;
+    width: 1068px;
+    background-color: rgba(255, 255, 255, .75);
+    position: absolute;
+    margin-top:700px;
+    margin-left: 235px;
+}
+.social{
+    width:1068px;
+    height: 20px;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    float: left;
+}
+.icon{
+    height: 100%;
+    width: 23px;
+    display: flex;
+    margin-left:20px ;
+    mix-blend-mode: multiply;
+
+}
+.icon:hover{
+    cursor: pointer;
+
+}
+.utility{
+    width:1068px;
+    height: 16px;
+    background-color:transparent;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.foot-text{
+    color:#818182;
+    height: 100%;
+    font-size: 13px;
+    font-family: serif;
+    float: left;
+    margin-left: 15px;
+}
+.foot-text:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.end-text{
+    width: 1068px;
+    height: 16px;
+    background-color:transparent;
+    display: flex;
+    justify-content: center;
+}
+.foot-text1{
+    color:#818182;
+    height: 100%;
+    font-size: 13px;
+    font-family: serif;
+    float: left;
+    margin-top: 25px;
+    
+}
+
+
+
+
